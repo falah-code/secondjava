@@ -9,30 +9,30 @@ const questions = [
     ]
     },
     {
-        question: "Which Is The Smallest Animal?",
+        question: "How Many Languages Were Used To Make This Quiz Application?",
         answers: [
-            { text: "Shark", correct: false},
-            { text: "Cat", correct: false},
-            { text: "Zebra", correct: false},
-            { text: "Centipede", correct: true},
+            { text: "1", correct: false},
+            { text: "2", correct: false},
+            { text: "3", correct: true},
+            { text: "5", correct: false},
     ]
     },
     {
-        question: "Which Is The Largest Animal?",
+        question: "What Is The Value Of Pie?",
         answers: [
-            { text: "Shark", correct: false},
-            { text: "Cat", correct: true},
-            { text: "Zebra", correct: false},
-            { text: "Centipede", correct: false},
+            { text: "3.14", correct: true},
+            { text: "3.88", correct: false},
+            { text: "6.69", correct: false},
+            { text: "44.6", correct: false},
     ]
     },
     {
-        question: "Which Is The Smartest Animal?",
+        question: "Who Is The Richest Man In The World?",
         answers: [
-            { text: "Shark", correct: false},
+            { text: "Bill Gates", correct: false},
             { text: "Cat", correct: false},
-            { text: "Zebra", correct: false},
-            { text: "Centipede", correct: true},
+            { text: "Elon Musk", correct: true},
+            { text: "Ambani", correct: false},
     ]
     }
     
